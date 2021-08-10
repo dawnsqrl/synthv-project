@@ -1,3 +1,5 @@
 # Synthesizer V project file releases
 
-* **[WIP]** Shian³ Outro
+* Shian³ Outro
+* **[WIP]** Starry Encounter
+* **[Planned]** Rush *Yi*
