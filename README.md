@@ -2,4 +2,3 @@
 
 * Shian³ Outro
 * **[WIP]** Starry Encounter
-* **[Planned]** Rush *Yi*
