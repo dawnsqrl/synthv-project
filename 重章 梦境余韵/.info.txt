@@ -1,0 +1,10 @@
+DreamOutroSc.png
+	封面图。
+Shian⁰ Outro.mp3
+	起床铃单声部版本。
+Shian³ Outro.mp3
+	起床铃三声部版本。
+Shian³ Outro.s5p
+	一代Synthesizer V工程文件（不含伴奏）。
+
+✾ dawn squirryl
