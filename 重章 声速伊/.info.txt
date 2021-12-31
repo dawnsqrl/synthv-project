@@ -1,0 +1,12 @@
+RushJelly.png
+	封面图。
+RushYi⁸.mp3
+	起床铃八声部版本（声部数量为估计值）。
+RushWord.txt
+	歌词。文本行数对应工程文件小节数。
+RushWordSeparate.svp
+	二代Synthesizer V工程文件（不含伴奏）。共有近60个音轨，每个音轨均对应歌词中的一个音素。
+你一大早在唱什么啊.wav
+	起床铃诗岸增强版本。
+
+✾ dawn squirryl
