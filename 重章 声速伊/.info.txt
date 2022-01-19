@@ -8,5 +8,7 @@ RushWordSeparate.svp
 	二代Synthesizer V工程文件（不含伴奏）。共有近60个音轨，每个音轨均对应歌词中的一个音素。
 你一大早在唱什么啊.wav
 	起床铃诗岸增强版本。
+你一大早在唱什么啊.svp
+	二代Synthesizer V工程文件（不含砸门声）。
 
 ✾ dawn squirryl
