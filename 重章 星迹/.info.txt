@@ -1,0 +1,14 @@
+StarsChoir.png
+	封面图。
+We'll be the Stars ∞.mp3
+	合唱原声。
+StarsChoir.svp
+	二代Synthesizer V工程文件（不含伴奏）。
+homeye.sc
+	SpaceEngine脚本，以太阳系为中心放置一团紫色星云。应放入SpaceEngine\addons\catalogs\nebulae文件夹。
+Homeye.cfg
+	SpaceEngine配置文件，定义紫色星云的相关参数。应放入SpaceEngine\data\models\custom文件夹。
+RSC Stardust.sc
+	SpaceEngine脚本，在地球附近放置一个低温黑洞。应放入SpaceEngine\addons\catalogs\planets文件夹。
+
+✾ dawn squirryl
