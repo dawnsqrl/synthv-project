@@ -1,0 +1,10 @@
+ScaredCover.png
+	封面图。
+I'm scared.mp3
+	我很害怕。
+what's the name of this tune.svp
+	二代Synthesizer V工程文件（不含伴奏）。
+ScaredReplay.ppsx
+	视频动画PowerPoint放映文件，内嵌有mp3格式音频。双击即可播放，按空格键进行踩点。
+
+✾ dawn squirryl
