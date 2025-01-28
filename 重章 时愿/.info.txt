@@ -1,0 +1,9 @@
+DreamSeasons.png
+	封面图。
+dreamseasons-lyricwriter
+	使用Manim制作的字幕动效生成程序。
+	`requirements.txt`用于初始化Python虚拟环境。
+	`input.json`为歌词输入示例。
+	`play.py`为视频格式字幕生成脚本。
+
+✾ dawn squirryl
